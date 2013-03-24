@@ -28,9 +28,8 @@ Judging is always hard, but here is a simple points based system to help get thi
 
 The team with the highest number of points is the winner*. 
 
-Stay tuned for the next challenge, which will build upon skills developed in this challenge and add some mechanical madness into the mix. 
-
-\* This really should be more of a 'everyone is a winner' kinda deal - everyone should get a bit of a laugh and giggle.
-
+### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+
+\* This really should be more of a 'everyone is a winner' kinda deal - everyone should get a bit of a laugh and giggle.
