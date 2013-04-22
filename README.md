@@ -10,7 +10,9 @@ The only rule of HackDown, is that teams are only permitted to use the materials
 Challenges
 ----------
 * [\#1 - Build a Bridge][1]
+* [\#2 - Jump the Gap][2]
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
 
 [1]: https://github.com/cfreeman/hackdown/blob/master/challenge1-build_a_bridge.md
+[2]: https://github.com/cfreeman/hackdown/blob/master/challenge2-jump_the_gap.md
