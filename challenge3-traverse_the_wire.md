@@ -10,10 +10,10 @@ Two plinths (or tables) of the same height are separated by 600mm. Suspend a sin
 
 * 1pc 9 volt battery.
 * 1pc Arduino nano.
+* 1pc small DC motor
 * 1pc 9G micro servo.
 * 4pcs cotton spools.
 * 5 metres of electrical wire.
-
 * 2pcs metal wire coat hanger
 * 1pc 3mm x 100mm x 225mm balsa wood sheet
 * 1pc 12mm x 12mm x 450mm balsa wood sticks
@@ -21,7 +21,6 @@ Two plinths (or tables) of the same height are separated by 600mm. Suspend a sin
 * 1pc of 5.0mm x 75mm x 225mm balsa wood board
 * 1 125ml tube of PVA glue
 * 5 metres of string
-
 * 10 metres of plastic filament… Hrmm I wonder what sort of [tool][1] could shape this?
 
 Estimated kit cost (per team): ~$30.00 (excluding shipping costs)
