@@ -7,6 +7,8 @@ Each challenge is designed to run over the course of a month, were teams of four
 
 The only rule of HackDown, is that teams are only permitted to use the materials provided in a box at the start of the month (each team gets exactly the same materials). 
 
+Special thanks to [The Edge](http://edgeqld.org.au/) and Daniel Flood, who supported the development of Hackdown.
+
 Challenges
 ----------
 * [\#1 - Build a Bridge][1]
